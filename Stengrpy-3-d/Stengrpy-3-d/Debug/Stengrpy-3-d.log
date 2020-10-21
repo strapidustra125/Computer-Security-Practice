@@ -1,0 +1,10 @@
+﻿  Stengrpy-3-d.cpp
+E:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Stengrpy-3-d\Stengrpy-3-d\Stengrpy-3-d.cpp(23,7): warning C4101: result: неиспользованная локальная переменная
+E:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Stengrpy-3-d\Stengrpy-3-d\Stengrpy-3-d.cpp(35,7): warning C4101: result: неиспользованная локальная переменная
+E:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Stengrpy-3-d\Stengrpy-3-d\Stengrpy-3-d.cpp(84,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Stengrpy-3-d\Stengrpy-3-d\Stengrpy-3-d.cpp(165,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Stengrpy-3-d\Stengrpy-3-d\Stengrpy-3-d.cpp(174,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Stengrpy-3-d\Stengrpy-3-d\Stengrpy-3-d.cpp(208,27): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+E:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Stengrpy-3-d\Stengrpy-3-d\Stengrpy-3-d.cpp(220,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Stengrpy-3-d\Stengrpy-3-d\Stengrpy-3-d.cpp(244,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Stengrpy-3-d.vcxproj -> E:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Stengrpy-3-d\Debug\Stengrpy-3-d.exe

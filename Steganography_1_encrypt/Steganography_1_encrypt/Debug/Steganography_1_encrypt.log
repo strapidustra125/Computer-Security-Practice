@@ -1,4 +1,0 @@
-﻿  Steganography_1_encrypt.cpp
-e:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Steganography_1_encrypt\Steganography_1_encrypt\Steganography_1_encrypt.cpp(98,21): warning C4018: <: несоответствие типов со знаком и без знака
-e:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Steganography_1_encrypt\Steganography_1_encrypt\Steganography_1_encrypt.cpp(121,27): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
-  Steganography_1_encrypt.vcxproj -> E:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Steganography_1_encrypt\Debug\Steganography_1_encrypt.exe

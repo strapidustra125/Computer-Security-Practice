@@ -1,0 +1,5 @@
+﻿  Stengrpy-1-e.cpp
+e:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Stengrpy-1-e\Stengrpy-1-e\Stengrpy-1-e.cpp(92,20): warning C4018: <: несоответствие типов со знаком и без знака
+e:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Stengrpy-1-e\Stengrpy-1-e\Stengrpy-1-e.cpp(115,27): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+e:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Stengrpy-1-e\Stengrpy-1-e\Stengrpy-1-e.cpp(135,13): warning C4102: newPathLabel: неиспользованная метка
+  Stengrpy-1-e.vcxproj -> E:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Stengrpy-1-e\Debug\Stengrpy-1-e.exe

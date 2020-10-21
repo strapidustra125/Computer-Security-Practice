@@ -1,0 +1,12 @@
+﻿  Stengrpy-3-e.cpp
+E:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Stengrpy-3-e\Stengrpy-3-e\Stengrpy-3-e.cpp(23,7): warning C4101: result: неиспользованная локальная переменная
+E:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Stengrpy-3-e\Stengrpy-3-e\Stengrpy-3-e.cpp(35,7): warning C4101: result: неиспользованная локальная переменная
+E:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Stengrpy-3-e\Stengrpy-3-e\Stengrpy-3-e.cpp(84,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Stengrpy-3-e\Stengrpy-3-e\Stengrpy-3-e.cpp(165,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Stengrpy-3-e\Stengrpy-3-e\Stengrpy-3-e.cpp(174,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Stengrpy-3-e\Stengrpy-3-e\Stengrpy-3-e.cpp(208,27): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+E:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Stengrpy-3-e\Stengrpy-3-e\Stengrpy-3-e.cpp(220,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Stengrpy-3-e\Stengrpy-3-e\Stengrpy-3-e.cpp(244,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Stengrpy-3-e\Stengrpy-3-e\Stengrpy-3-e.cpp(312,17): warning C4018: >: несоответствие типов со знаком и без знака
+E:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Stengrpy-3-e\Stengrpy-3-e\Stengrpy-3-e.cpp(275,13): warning C4102: newPathLabel: неиспользованная метка
+  Stengrpy-3-e.vcxproj -> E:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Stengrpy-3-e\Debug\Stengrpy-3-e.exe
