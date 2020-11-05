@@ -15,8 +15,10 @@ int signatureStartPosition = 0;
 
 //char signature[16] = { '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F' };
 
-char signature[16];
+//char signature[16];
+vector<char> signature;
 string signatureString = "";
+int signatureLength = 0;
 
 vector<wstring> paths;
 vector<wstring> result;
@@ -47,7 +49,8 @@ void EnumerateFileObjects(std::wstring const& Path)
 			{
 				wstring const FullPath = Path + L"\\" + &FindData.cFileName[0];
 				
-				if (FindData.dwFileAttributes != FILE_ATTRIBUTE_DIRECTORY)
+				//if (FindData.dwFileAttributes != FILE_ATTRIBUTE_DIRECTORY)
+				if (0 == (FindData.dwFileAttributes & FILE_ATTRIBUTE_DIRECTORY))
 				{
 					paths.push_back(FullPath);
 				}
@@ -117,7 +120,7 @@ newPathLabel:
 
 	while (!inSign.is_open())
 	{
-		cout << "ERROR: Sorry, It's unable to open the file..." << endl;
+		cout << endl << "ERROR: Sorry, It's unable to open the file..." << endl;
 		cout << "Please, try again: ";
 		cin >> signFilePath;
 		cout << signFilePath << endl;
@@ -128,9 +131,13 @@ newPathLabel:
 
 	cout << "Enter start position in file to read the signature: ";
 	cin >> startSignaturePointer;
+
+	cout << endl << "Enter signature length: ";
+	cin >> signatureLength;
 	
 	while (unsuccessReading)
 	{
+		signature.clear();
 		while (1)
 		{
 			newSymb = inSign.get();
@@ -138,9 +145,9 @@ newPathLabel:
 
 			if (symbolCounter >= startSignaturePointer)
 			{
-				if (signatureCounter < 16)
+				if (signatureCounter < signatureLength)
 				{
-					signature[signatureCounter] = newSymb;
+					signature.push_back(newSymb);
 					signatureCounter++;
 				}
 				else break;
@@ -150,19 +157,22 @@ newPathLabel:
 
 		inSign.close();
 
-		if (signatureCounter < 16)
+		if (signatureCounter < signatureLength)
 		{
 			signatureCounter = 0;
 			symbolCounter = 0;
 
-			cout << "ERROR: Too short file to read the signature :(" << endl;
+			cout << endl << "ERROR: Too short file to read the signature :(" << endl;
 
 			if (startSignaturePointer != 0)
 			{
-				cout << "Start position may be less value." << endl;
-				cout << "Please, try another position: ";
+				cout << "Please, try another values! " << endl << endl;
 
+				cout << "Position: ";
 				cin >> startSignaturePointer;
+
+				cout << "Length: ";
+				cin >> signatureLength;
 
 				inSign.open(signFilePath, ios::binary);
 			}
@@ -183,7 +193,7 @@ newPathLabel:
 void printSignature()
 {
 	cout << endl << "Signature: ";
-	for (char i = 0; i < 16; i++)
+	for (char i = 0; i < signatureLength; i++)
 	{
 		cout << signature[i];
 	}
@@ -192,7 +202,7 @@ void printSignature()
 
 void createSignatureString()
 {
-	for (int i = 0; i < 16; i++) signatureString += signature[i];
+	for (int i = 0; i < signatureLength; i++) signatureString += signature[i];
 }
 int main(int argc, char* argv[])
 {
@@ -231,7 +241,7 @@ int main(int argc, char* argv[])
 		}
 	}
 
-	if (result.empty()) cout << "There are NO files includes signature!" << endl;
+	if (result.empty()) cout << endl << "There are NO files includes signature!" << endl;
 	else
 	{
 		cout << endl << "Signature was found in:" << endl;
