@@ -60,8 +60,11 @@ vector<string> readFile(ifstream& in)
 string charToBinString(char c)
 {
 	string s = "";
-	int code = c,
+	int code,
 		temp;
+
+	if (c < 0) code = 256 + c;
+	else code = c;
 
 	while (code != 0)
 	{
@@ -74,7 +77,7 @@ string charToBinString(char c)
 
 	if (s.length() < 8)
 	{
-		for (int i = s.length(); i < 8; i++)
+		for (int i = s.length(); i < 9; i++)
 		{
 			s += '0';
 		}
@@ -162,7 +165,7 @@ newPathLabel:
 	cout << "Enter " << file.size() / 8 << " symbols or smaller message to encrypt." << endl;
 	cout << "Message: ";
 
-	
+	SetConsoleCP(1251);
 
 	while (!flag)
 	{
@@ -170,7 +173,7 @@ newPathLabel:
 
 		
 
-		if (code.length() / 8 > file.size())
+		if (code.length() * 8 > file.size())
 		{
 			cout << "File size is too small for this message..." << endl;
 			cout << "Try again: ";
@@ -178,7 +181,12 @@ newPathLabel:
 		else flag = true;
 	}
 	
-	cout << endl << "Entered message: " << "\'" << code << "\'" << endl << endl;
+	cout << endl << "Entered message: " << "\'"; 
+
+	SetConsoleCP(866);
+	setlocale(LC_ALL, "Russian");
+
+	cout << code << "\'" << endl << endl;
 
 	//code.erase(0, 1);
 	

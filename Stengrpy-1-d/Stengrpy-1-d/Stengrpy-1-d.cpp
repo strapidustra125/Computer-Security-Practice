@@ -114,6 +114,9 @@ char binStrToChar(string s)
 
 		code += temp * pow(2, j);
 	}
+
+	if (code > 127) code = code - 256;
+
 	return (char)code;
 }
 
@@ -188,7 +191,12 @@ int main()
 
 	clearCode(code);
 
-	cout << "Encrypted message: \'" << code << "\'"<< endl;
+	cout << "Encrypted message: \'";
+
+	//SetConsoleCP(866);
+	setlocale(LC_ALL, "Russian");
+
+	cout << code << "\'" << endl;
 
 
 

@@ -1,0 +1,40 @@
+﻿  Catalog_archieve.cpp
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(78,78): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(233,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(257,25): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(272,3): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(368,91): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(381,81): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(404,69): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(459,33): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(516,53): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(600,68): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+  Catalog_archieve.vcxproj -> D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\x64\Debug\Catalog_archieve.exe

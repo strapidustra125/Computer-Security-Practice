@@ -1,3 +1,55 @@
 ﻿  Catalog_archieve.cpp
-E:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(117,20): warning C4018: <: несоответствие типов со знаком и без знака
-  Catalog_archieve.vcxproj -> E:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Debug\Catalog_archieve.exe
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(54,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(62,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(70,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(78,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(78,78): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(189,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(257,25): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(269,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(272,37): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(283,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(295,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(366,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(368,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(368,91): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(378,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(381,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(381,81): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(404,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(404,69): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(442,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(442,48): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(514,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(516,53): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(600,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Catalog_archieve\Catalog_archieve.cpp(600,68): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+  Catalog_archieve.vcxproj -> D:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Catalog_archieve\Debug\Catalog_archieve.exe

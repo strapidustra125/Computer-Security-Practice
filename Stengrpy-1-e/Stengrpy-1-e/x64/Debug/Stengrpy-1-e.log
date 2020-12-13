@@ -1,0 +1,8 @@
+﻿  Stengrpy-1-e.cpp
+E:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Stengrpy-1-e\Stengrpy-1-e\Stengrpy-1-e.cpp(18,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Stengrpy-1-e\Stengrpy-1-e\Stengrpy-1-e.cpp(31,37): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Stengrpy-1-e\Stengrpy-1-e\Stengrpy-1-e.cpp(80,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Stengrpy-1-e\Stengrpy-1-e\Stengrpy-1-e.cpp(113,40): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Stengrpy-1-e\Stengrpy-1-e\Stengrpy-1-e.cpp(118,27): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+E:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Stengrpy-1-e\Stengrpy-1-e\Stengrpy-1-e.cpp(138,13): warning C4102: newPathLabel: неиспользованная метка
+  Stengrpy-1-e.vcxproj -> E:\Documents\University\Предметы - ИВТ - СГУ - Магистратура\Методы защиты информации  - Гортинский м-3 семестр\Practice\Stengrpy-1-e\x64\Debug\Stengrpy-1-e.exe
